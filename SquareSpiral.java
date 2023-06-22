@@ -8,7 +8,7 @@ public class SquareSpiral {
         Turtle bob = new Turtle();
 
         {
-
+            bob.width(15);
             bob.penColor("red");
             bob.left(90);
             bob.forward(500);
